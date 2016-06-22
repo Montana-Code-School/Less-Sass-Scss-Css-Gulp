@@ -1,0 +1,13 @@
+.thirdgroup {
+  background-color: #efefef; }
+  .thirdgroup .linefive {
+    color: teal; }
+  .thirdgroup .linesix {
+    color: beige; }
+
+.fourthgroup {
+  background-color: #23e54d; }
+  .fourthgroup .lineseven {
+    color: pink; }
+  .fourthgroup .lineeight {
+    color: green; }
